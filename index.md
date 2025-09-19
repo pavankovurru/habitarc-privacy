@@ -1,5 +1,3 @@
-# habitarc-privacy
-habit arc privacy page
 
   # Privacy Policy for Habitarc
 
